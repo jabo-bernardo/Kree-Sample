@@ -10,6 +10,10 @@ This project is not polished and it's intended for Kree users to practice on.
 - Display Score on Game Over Scene
 - Add Buttons on Main Scene `(Buttons are not supported at v2.0 and below it will be released at v2.1)` but don't let that stop you from making button on your Main Menu scene be creative!
 - Play Again Feature
+- Add Music & Sound Effects
+
+## What to do next?
+- Join us on [Discord](https://discord.gg/m2hYa6F) and send it to us!
 
 ---
 Need Help? Getting Started? 
